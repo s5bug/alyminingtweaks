@@ -1,0 +1,11 @@
+{
+  "mining_level": "alyminingtweaks:iron",
+  "item_durability": 250,
+  "mining_speed": 6.0,
+  "attack_damage": 2.0,
+  "enchantability": 14,
+  "repair_ingredient": [
+    { "item": "minecraft:iron_ingot" }
+  ],
+  "tools": "#alyminingtweaks:iron_tools"
+}

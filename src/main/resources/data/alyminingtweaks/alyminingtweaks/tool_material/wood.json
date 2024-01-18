@@ -1,0 +1,11 @@
+{
+  "mining_level": "alyminingtweaks:wood",
+  "item_durability": 59,
+  "mining_speed": 2.0,
+  "attack_damage": 0.0,
+  "enchantability": 15,
+  "repair_ingredient": [
+    { "tag": "minecraft:planks" }
+  ],
+  "tools": "#alyminingtweaks:wood_tools"
+}

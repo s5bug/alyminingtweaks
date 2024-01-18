@@ -1,0 +1,11 @@
+{
+  "mining_level": "alyminingtweaks:stone",
+  "item_durability": 131,
+  "mining_speed": 4.0,
+  "attack_damage": 1.0,
+  "enchantability": 5,
+  "repair_ingredient": [
+    { "tag": "minecraft:stone_tool_materials" }
+  ],
+  "tools": "#alyminingtweaks:stone_tools"
+}

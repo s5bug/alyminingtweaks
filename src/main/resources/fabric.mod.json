@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "alyminingtweaks",
+  "version": "${version}",
+  "name": "alyminingtweaks",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/s5bug/alyminingtweaks"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/alyminingtweaks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "tf.bug.miningtweaks.client.MiningTweaksClient"
+    ],
+    "main": [
+      "tf.bug.miningtweaks.MiningTweaks"
+    ]
+  },
+  "mixins": [
+    "alyminingtweaks.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

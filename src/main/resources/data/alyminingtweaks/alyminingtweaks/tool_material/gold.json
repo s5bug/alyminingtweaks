@@ -1,0 +1,11 @@
+{
+  "mining_level": "alyminingtweaks:wood",
+  "item_durability": 32,
+  "mining_speed": 12.0,
+  "attack_damage": 0.0,
+  "enchantability": 22,
+  "repair_ingredient": [
+    { "item": "minecraft:gold_ingot" }
+  ],
+  "tools": "#alyminingtweaks:gold_tools"
+}

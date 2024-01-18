@@ -1,0 +1,11 @@
+{
+  "mining_level": "alyminingtweaks:netherite",
+  "item_durability": 2031,
+  "mining_speed": 9.0,
+  "attack_damage": 4.0,
+  "enchantability": 15,
+  "repair_ingredient": [
+    { "item": "minecraft:netherite_ingot" }
+  ],
+  "tools": "#alyminingtweaks:netherite_tools"
+}

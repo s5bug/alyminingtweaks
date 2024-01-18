@@ -1,0 +1,11 @@
+{
+  "mining_level": "alyminingtweaks:diamond",
+  "item_durability": 1561,
+  "mining_speed": 8.0,
+  "attack_damage": 3.0,
+  "enchantability": 10,
+  "repair_ingredient": [
+    { "item": "minecraft:diamond" }
+  ],
+  "tools": "#alyminingtweaks:diamond_tools"
+}
